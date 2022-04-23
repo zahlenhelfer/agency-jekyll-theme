@@ -6,11 +6,13 @@ title: Zahlenhelfer Consulting
 email: website@zahlenhelfer.de
 description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
 header-line-1: Welcome to my Website!
+header-line-2: Let´s try "cloudy" things
+header-button: Tell Me More
 
 # Team names, titles and social links
 people:
   - name: Marcus Ross
-    pic: 1
+    pic: 2
     position: Chief Cloud Executive
     social:
       - title: twitter
