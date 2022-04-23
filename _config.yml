@@ -5,9 +5,22 @@ baseurl: /agency-jekyll-theme/
 title: Zahlenhelfer Training & Consulting
 email: website@zahlenhelfer.de
 description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+
+# header-settings
 header-line-1: Welcome to my Website!
 header-line-2: Let´s try "cloudy" things
 header-button: Tell Me More
+
+# services
+services-opener: Lorem ipsum dolor sit amet consectetur.
+services-left-header: Cloud Trainings
+services-left-text: Started with AWS, followed by Azure and now Google.
+services-mid-header: Cloud Native Tooling
+services-mid-text: I felt in love with Terraform
+services-right-header: Kubernetes Eco-System
+services-right-text: I´m so thrilled to work as an Linuxfoundation Trainer
+
+# portfolio
 
 # Team names, titles and social links
 people:
